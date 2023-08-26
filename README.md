@@ -1,2 +1,2 @@
-# discord-league-bot-public
- 
+# discord-bot
+ DiscordBot for hosting a dota 2 league
